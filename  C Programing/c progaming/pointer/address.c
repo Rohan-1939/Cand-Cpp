@@ -8,5 +8,5 @@ int main()
     printf("Value of varible is : %d\n",*p);
     printf("address of varible is : %d\n",p);
     printf("address of varible is : %d\n",&x);
-    printf("address of varible is : %d\n",&p);
+    printf("address of varible is : %u\n",&p);
 }
