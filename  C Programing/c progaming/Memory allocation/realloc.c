@@ -26,4 +26,5 @@ int main()
     }
     printf("Name = %s \n",name);
     printf("Desciption : %s",descirption);
+    free(descirption);
 }
