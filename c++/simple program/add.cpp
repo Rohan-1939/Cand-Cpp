@@ -13,5 +13,6 @@ int main()
     cout<<"Additon is :"<<add<<endl;
     cout<<"Subtraction is :"<<sub<<endl;
     cout<<"Multiplication is :"<<mult<<endl;
+    cout<<fixed;
     cout<<"Division is :"<<div<<setprecision(2)<<endl;
 }
