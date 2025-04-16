@@ -1,3 +1,19 @@
-hello rohan
-welcome to pune
-nice to meet you here 
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc read.c -o read && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"read
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc read.c -o read && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"read
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc read.c -o read && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"read
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc array.c -o array && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"array
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc array.c -o array && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"array
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc array.c -o array && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"array
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc array.c -o array && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"array
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc array.c -o array && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"array
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc array.c -o array && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"array
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc calculate_stnl.c -o calculate_stnl && "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/"calculate_stnl
+cd "/Users/rohanganeshlokhande/Desktop/C-and-C-/ C Programing/c progaming/file handling/" && gcc cal
